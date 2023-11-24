@@ -1,4 +1,3 @@
-
 <h1>Olá, Prazer me chamo Alex Gabriel!</h1>
 <hr>
 
@@ -6,9 +5,8 @@ Sou um estudante apaixonado por tecnologia, desde de pequeno quando tive meu pri
 
 Contato: alexgabriel1217@gmail.com
 
-<h3>Tenho estudado as seguintes tecnologias:</h3> <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-<br>
+Tenho estudado as seguintes tecnologias: <br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,react)](https://skillicons.dev)<br>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGabrielSilveira&layout=compact&langs_count=7&theme=tokyonight" />
 </a>
