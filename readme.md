@@ -6,7 +6,7 @@ Sou um estudante apaixonado por tecnologia, desde de pequeno quando tive meu pri
 Contato: alexgabriel1217@gmail.com
 
 Tenho estudado as seguintes tecnologias: <br>
-[![My Skills](https://skillicons.dev/icons?i=cs,js,ts,nodejs,react,nest)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nest)](https://skillicons.dev)<br>
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGabrielSilveira&layout=compact&langs_count=7&theme=tokyonight" />
 </a>
